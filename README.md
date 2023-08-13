@@ -1,6 +1,13 @@
 # Visualize the Sorting Algos
 
-https://algovisualizer-76b0f.web.app
+https://timely-mooncake-2144b4.netlify.app/
+
+
+• Sorting visualizer that visualizes various sorting algorithms.It uses ReactJs and sorting algorithm.
+
+
+• Designed an intuitive user interface that enables real-time visualization of sorting processes,
+demonstrating effective data visualization techniques
 
 # Getting Started with Create React App
 
